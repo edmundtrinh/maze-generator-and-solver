@@ -5,7 +5,6 @@ Instructions:
 1. Clone the repo whichever method you prefer
 2. Open the "MainWindow.java" file from "maze/src/main/java/mazes/gui/" directory
 3. Compile and run MainWindow - the MazeGenerator should pop up
-    a. There are customizeable dimensions of the grid
-    b. Option to create a "Grid" or "Voronoi" type maze
-    c. Various maze generator algorithms - Kruskal's guarantees a random but solvable maze
-    d. Find shortest path
+4. Create a "Grid" (rectangular) or "Voronoi" (cellular) type maze
+5. Various maze generator algorithms - Kruskal's guarantees a random but solvable maze
+6. Find shortest path
